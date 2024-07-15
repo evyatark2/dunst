@@ -1,4 +1,4 @@
-/* copyright 2013 Sascha Kruse and contributors (see LICENSE for licensing information)  111 */
+/* copyright 2013 Sascha Kruse and contributors (see LICENSE for licensing information)  1112 */
 #include "dbus.h"
 
 #include <gio/gio.h>
